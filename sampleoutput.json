@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Calii bags $22.5M to build Latin America’s grocery shopping future",
+            "description": "The mobile grocery app automates the supply chain, enabling customers to choose over 5,000 products delivered via a network of micro-fulfillment centers in less than two hours.",
+            "url": "https://techcrunch.com/2022/01/21/calii-bags-22-5m-to-build-latin-americas-grocery-shopping-future/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/01/calii_founding_team_1.jpg?w=701",
+            "publishedAt": "2022-01-21T17:00:29Z",
+            "content": "Grocery delivery startup Calii is carving out a piece of Latin Americas $1 trillion groceries and food delivery market with its approach to cut inefficiencies in the food supply chain so it can bring… [+3468 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Cana Technology raises glass to new capital as it readies beverage printer for market",
+            "description": "Cana focused on identifying the basic set of ingredients, basically deconstructing beverages to figure out what makes it taste like a certain drink.",
+            "url": "https://techcrunch.com/2022/01/21/cana-technology-raises-glass-to-new-capital-as-it-readies-beverage-printer-for-market/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/01/J0A5196-1.jpg?w=710",
+            "publishedAt": "2022-01-21T17:00:22Z",
+            "content": "Following nearly four years in the prototype phase, Cana Technology is unveiling what it calls the worlds first molecular beverage printer after securing $30 million in funding from venture foundry T… [+3594 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Amanda Silberling",
+            "title": "Raven Software testers at Activision Blizzard form the first union at a major US gaming company",
+            "description": "Today, Raven Software’s quality assurance department — which mostly works on “Call of Duty” as part of Activision Blizzard — became the first union to form at a major US gaming company. With help from the Communications Workers of America (CWA), Raven Softwar…",
+            "url": "https://techcrunch.com/2022/01/21/activision-blizzard-union-raven-software/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/01/solidarity-raised-fists-video-games.jpg?w=711",
+            "publishedAt": "2022-01-21T16:54:46Z",
+            "content": "Today, Raven Software’s quality assurance department — which mostly works on “Call of Duty” as part of Activision Blizzard — became the first union to form at a major US gaming company. With help fro… [+2233 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm, Anna Heim",
+            "title": "Netflix’s dismal results are more evidence that the pandemic trade is over",
+            "description": "The pandemic trade is coming apart, and Netflix is the latest company to suffer.",
+            "url": "https://techcrunch.com/2022/01/21/netflixs-dismal-results-are-more-evidence-that-the-pandemic-trade-is-over/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3-ORNG.jpg?w=533",
+            "publishedAt": "2022-01-21T16:43:18Z",
+            "content": "TechCrunch got its teeth into the pandemic trade and its possible conclusion yesterday. As a refresher: After the initial onset of COVID-19 and the ensuing lockdowns, changes to work environments and… [+3412 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Brian Heater",
+            "title": "Intel eyes Ohio for a pair of chip factories amid global shortage",
+            "description": "Intel this week highlighted plans to build two chip manufacturing facilities outside of Columbus, Ohio. The announcement is still early stages, involving the eventual allotment of $20 billion to construct the factories designed to tackle the ongoing global ch…",
+            "url": "https://techcrunch.com/2022/01/21/intel-eyes-ohio-for-a-pair-of-chip-factories-amid-global-shortage/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1230712303.jpg?w=600",
+            "publishedAt": "2022-01-21T15:54:41Z",
+            "content": "Intel this week highlighted plans to build two chip manufacturing facilities outside of Columbus, Ohio. The announcement is still early stages, involving the eventual allotment of $20 billion to cons… [+2927 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ron Miller",
+            "title": "Francisco Partners scoops up remains of IBM's Watson Health unit",
+            "description": "In what has to be considered an anticlimactic ending, IBM sold off the data assets of its Watson Health unit to private equity firm Francisco Partners today. The two firms did not share the purchase price, but previous reports pegged the value at around $1 bi…",
+            "url": "https://techcrunch.com/2022/01/21/francisco-partners-scoops-up-remains-of-ibms-watson-health-unit/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-566035463.jpg?w=600",
+            "publishedAt": "2022-01-21T15:00:43Z",
+            "content": "In what has to be considered an anticlimactic ending, IBM sold off the data assets of its Watson Health unit to private equity firm Francisco Partners today. The two firms did not share the purchase … [+2558 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm, Natasha Mascarenhas, Mary Ann Azevedo",
+            "title": "Wordle's Blizzard of transparency",
+            "description": "Hello and welcome back to Equity, a podcast about the business of startups, where we unpack the numbers and nuance behind the headlines. This is our Friday episode, a run-down of key news headlines, startup funding rounds and whatever else is popping in the w…",
+            "url": "https://techcrunch.com/2022/01/21/wordles-blizzard-of-transparency/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/07/equity-podcast-2019-phone.jpg?w=711",
+            "publishedAt": "2022-01-21T15:00:30Z",
+            "content": "Hello and welcome back to Equity, a podcast about the business of startups, where we unpack the numbers and nuance behind the headlines.\r\nThis is our Friday episode, a run-down of key news headlines,… [+2167 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Nourish + Bloom Market, first Black-owned, autonomous grocery, opens in Atlanta",
+            "description": "The grocery store and bistro offer over 1,000 locally-sourced, healthy food products, including produce, meats, baked goods, dairy and prepared meals.",
+            "url": "https://techcrunch.com/2022/01/21/nourish-bloom-market-first-black-owned-autonomous-grocery-opens-in-atlanta/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/01/Jamie-and-Jilea-Hemmings-co-founders-of-Nourish-Bloom.png?w=717",
+            "publishedAt": "2022-01-21T14:00:15Z",
+            "content": "Contactless grocery store Nourish + Bloom Market opened to the public Friday in Triliths Town Centre retail district in Atlanta.\r\nHusband-and-wife entrepreneurs Jamie and Jilea Hemmings started the g… [+2809 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Annie Njanja",
+            "title": "Paris-based VC firm Partech unveils Chapter54 accelerator to help European startups cross into Africa",
+            "description": "Partech Shaker, the innovation division of the Paris-based VC firm Partech, has launched an accelerator program christened Chapter54 to help European startups launch in African markets. The accelerator will take in 10 technology startups annually over the nex…",
+            "url": "https://techcrunch.com/2022/01/21/paris-based-vc-firm-partech-unveils-chapter54-accelerator-to-help-european-startups-cross-into-africa/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1298765066.jpg?w=669",
+            "publishedAt": "2022-01-21T12:46:17Z",
+            "content": "Partech Shaker, the innovation division of the Paris-based VC firm Partech, has launched an accelerator program christened Chapter54 to help European startups launch in African markets.\r\nThe accelera… [+2862 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Mike Butcher",
+            "title": "Israel's Entrée Capital raises $300M for Israel-focused fund, Adi Gozes becomes Partner",
+            "description": "The Israeli VC scene seems to be on a bit of a New Year roll. Hot on the heels of the news that Viola Ventures, an Israeli VC, has closed its sixth fund of $250 million, comes news from  Entrée Capital, another firm in the country, that has closed its fourth …",
+            "url": "https://techcrunch.com/2022/01/21/israels-entree-capital-raises-300m-for-israel-focused-fund-adi-gozes-becomes-partner/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/01/Adi-Gozes.jpg?w=711",
+            "publishedAt": "2022-01-21T12:37:09Z",
+            "content": "The Israeli VC scene seems to be on a bit of a New Year roll. Hot on the heels of the news that Viola Ventures, an Israeli VC, has closed its sixth fund of $250 million, comes news from  Entrée Capit… [+1790 chars]"
+        }
+    ]
+}

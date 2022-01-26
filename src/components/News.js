@@ -23,8 +23,13 @@ export class News extends Component {
 
   articles = [
   ];
-  constructor() {
-    super();
+
+  capitalizeFirstLetter(string) {
+    return string.charAt(0).toUpperCase() + string.slice(1);
+  }
+  
+  constructor(props) {
+    super(props);
     console.log("hello i am a constructor");
     this.state = {
       articles: [],
@@ -32,6 +37,7 @@ export class News extends Component {
       page: 1,
       hello: "Good Morning!"
     }
+    document.title=this.capitalizeFirstLetter((this.props.category==="general")?"Home-NewsToday":this.props.category + "-NewsToday")
     const settime = () => {
       let time = new Date();
       let hr = time.getHours();
@@ -79,6 +85,8 @@ export class News extends Component {
         articles: parsedata.articles,
         Loading: false
       })
+      window.scrollTo(0, 0)
+      
     }
   }
 
@@ -94,6 +102,7 @@ export class News extends Component {
       articles: parsedata.articles,
       Loading: false
     })
+    window.scrollTo(0, 0)
   }
 
 
@@ -101,7 +110,7 @@ export class News extends Component {
   render() {
     return (
       <div className="container my-4">
-        <h1 className="text-center" style={{color:"green"}}>{this.state.hello}</h1>
+        <h1 className="text-center" style={{ color: "green" }}>{this.state.hello}</h1>
         <h2 className="my-5 text-center" style={{ fontFamily: "verdana" }}>News Today:Top headlines</h2>
         {this.state.Loading && <Spinner />}
         <div className="row">
@@ -109,10 +118,12 @@ export class News extends Component {
             return (
               <div className="col-md-4" key={element.url}>
                 <Newsitem
-                  title={element.title ? element.title.slice(0, 45) : ""}
-                  description={element.description ? element.description.slice(0, 80) : ""}
+                  title={element.title ? element.title.slice(0, 80) : ""}
+                  description={element.description ? element.description.slice(0, 200) : ""}
                   imageurl={element.urlToImage}
                   newsurl={element.url}
+                  author={element.author}
+                  date={element.publishedAt}
                 />
               </div>
             );

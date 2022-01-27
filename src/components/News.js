@@ -7,7 +7,7 @@ export class News extends Component {
 
 
   static defaultProps = {
-    country: 'in',
+    country: 'india',
     pagesize: 12,
     category: 'general'
   }
@@ -20,9 +20,7 @@ export class News extends Component {
   }
 
 
-
-  articles = [
-  ];
+  articles = [];
 
   capitalizeFirstLetter(string) {
     return string.charAt(0).toUpperCase() + string.slice(1);
@@ -57,7 +55,6 @@ export class News extends Component {
     window.setInterval(settime, 1000)
 
   }
-
 
 
   async componentDidMount() {

@@ -15,7 +15,7 @@ export default class Newsitem extends Component {
                     <img src={!imageurl ? "https://static.tweaktown.com/news/8/4/84078_525_nvidia-adds-gpu-system-processor-support-gsp-on-ampere-turing-gpus_full.jpg" : imageurl} className="card-img-top" alt="" />
                     <div className="card-body my-5">
                         <h5 className="card-title">{title}....</h5>
-                        <h6><span class="badge bg-secondary">{days<1?"New":''}</span></h6>
+                        <h6><span className="badge bg-secondary">{days<1?"New":''}</span></h6>
                         <p className="card-text">{description}....</p>
                         <p className="card-text"><small className="text-muted">By {!author?"NewsToday":author} On {new Date(date).toUTCString()}</small></p>
                         <p className="card-text"><small className="text-muted">{(days===0)?hrs + "hr-" + Math.abs(min) + "min" :days + "day"} Ago</small></p>

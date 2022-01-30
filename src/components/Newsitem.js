@@ -20,7 +20,7 @@ export default class Newsitem extends Component {
                         <p className="card-text"><small className="text-muted">By {!author?"NewsToday":author} On {new Date(date).toUTCString()}</small></p>
                         <p className="card-text"><small className="text-muted">{(days===0)?hrs + "hr-" + Math.abs(min) + "min" :days + "day"} Ago</small></p>
                         <br />
-                        <a href={newsurl} target="_blank" className="btn btn-dark btn-sm">Read MOre</a>
+                        <a href={newsurl} target="_blank" rel="noreferrer" className="btn btn-dark btn-sm">Read MOre</a>
                     </div>
                 </div>
             </div>
